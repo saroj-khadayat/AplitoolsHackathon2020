@@ -42,10 +42,10 @@ namespace ApplitoolsHackathon2020
 
             //Adding configuration for cross-browsers testing
             //Uncomment the following to run across multiple browsers
-            config.AddBrowser(1200, 800, BrowserType.FIREFOX);
-            config.AddBrowser(1200, 800, BrowserType.EDGE_CHROMIUM);
-            config.AddBrowser(1200, 800, BrowserType.SAFARI);
-            config.AddDeviceEmulation(DeviceName.iPhone_X);
+            //config.AddBrowser(1200, 800, BrowserType.FIREFOX);
+            //config.AddBrowser(1200, 800, BrowserType.EDGE_CHROMIUM);
+            //config.AddBrowser(1200, 800, BrowserType.SAFARI);
+            //config.AddDeviceEmulation(DeviceName.iPhone_X);
 
             _eyes.SetConfiguration(config);
         }
