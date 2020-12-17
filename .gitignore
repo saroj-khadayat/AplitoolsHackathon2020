@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ApplitoolsHackathon2020/.vs/ApplitoolsHackathon2020/v16
+/ApplitoolsHackathon2020/ApplitoolsHackathon2020/bin/Debug/netcoreapp3.1
